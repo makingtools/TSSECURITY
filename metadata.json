@@ -1,0 +1,7 @@
+{
+  "name": "TS Securitys - Soluciones Integrales de TI y Redes",
+  "description": "Una página web moderna y profesional para TS Securitys, una empresa colombiana que ofrece servicios de TI especializados para ISP, WISP, FTTH y soluciones empresariales como seguridad electrónica, cableado estructurado y más. Incluye un chatbot de IA interactivo.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}

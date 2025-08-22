@@ -1,0 +1,18 @@
+{
+  "name": "ts-securitys-backend",
+  "version": "1.0.0",
+  "description": "Backend server for handling Telegram notifications for TS Securitys ChatIA.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.7.2",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2"
+  }
+}
